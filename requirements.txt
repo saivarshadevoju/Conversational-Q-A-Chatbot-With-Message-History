@@ -1,0 +1,11 @@
+dotenv 
+langchain
+langchain_groq
+ipykernel 
+bs4
+chromadb
+langchain_core
+langchain_chroma
+langchain_text_splitters
+langchain_huggingface
+langchain_community
